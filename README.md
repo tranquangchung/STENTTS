@@ -1,4 +1,6 @@
 # STEN-TTS
+This model can synthesize speech in multiple languages while maintaining the unique characteristics of the input speaker.
+
 
 ### Inference Model
 Download checkpoint [here](https://drive.google.com/drive/folders/1xDJyLu3-ajoJmf7M1ZB13D-Hqc_pYX6P?usp=sharing) \
